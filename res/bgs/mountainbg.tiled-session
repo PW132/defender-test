@@ -1,0 +1,46 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mountain_bg.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "mountain_bg.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1159,
+                "y": 166
+            }
+        },
+        "mountain_tiles.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 4
+        }
+    },
+    "last.imagePath": "D:/SGDK/projects/scroll_test/res/bgs",
+    "map.height": 28,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 280,
+    "openFiles": [
+        "mountain_bg.tmx",
+        "mountain_tiles.tsx"
+    ],
+    "project": "mountainbg.tiled-project",
+    "recentFiles": [
+        "mountain_tiles.tsx",
+        "mountain_bg.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    },
+    "tileset.transparentColor": "#ffffff",
+    "tileset.useTransparentColor": true
+}
